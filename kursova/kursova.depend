@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1558204650 source:d:\pik_2\pik2_2019\eva k\kursova\functions.c
+	"functions.h"
+
+1558203924 d:\pik_2\pik2_2019\eva k\kursova\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<float.h>
+
+1558204581 source:d:\pik_2\pik2_2019\eva k\kursova\main.c
+	<stdio.h>
+	"functions.h"
+
